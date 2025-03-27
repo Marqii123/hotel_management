@@ -1,0 +1,7 @@
+[
+    { "no": 1, "name": "Saiful", "room": "Room 211", "checkin": "20/05/2025", "checkout": "23/05/2025", "status": "Pending" },
+    { "no": 2, "name": "Sameon", "room": "Room 212", "checkin": "13/03/2025", "checkout": "14/03/2025", "status": "Completed" },
+    { "no": 3, "name": "Rosmizah", "room": "Room 213", "checkin": "22/03/2025", "checkout": "29/03/2025", "status": "Cancelled" },
+    { "no": 4, "name": "Mimie", "room": "Room 214", "checkin": "06/02/2025", "checkout": "07/02/2025", "status": "Completed" }
+  ]
+  
