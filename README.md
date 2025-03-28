@@ -16,6 +16,8 @@ Ensure that Visual Studio Build Tools is installed
     - Install **C++ CMake tools**
 
 Run .exe file founded in \hotel_management\release\hotel_management.exe
+or inside
+\hotel_management\hotel_management\build\windows\x64\runner\Release\hotel_management.exe
 
 3. Additional Dependencies
 The project uses the following packages:
