@@ -19,12 +19,15 @@ Run .exe file founded in \hotel_management\release\hotel_management.exe
 or inside
 \hotel_management\hotel_management\build\windows\x64\runner\Release\hotel_management.exe
 
-3. Additional Dependencies
+3. Github Link
+https://github.com/Marqii123/hotel_management
+
+4. Additional Dependencies
 The project uses the following packages:
     - json_serializable
     - animated_background
     - ion_icon
 
-4. Author
+5. Author
 Muhammad Nabil Iqram Bin Shuib
 nabiliqram13@gmail.com
